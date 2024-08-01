@@ -1,16 +1,15 @@
-## Hi there 👋
+### Olá eu me chamo Rafael 😃
 
-<!--
-**DeveloperRafaSilva/DeveloperRafaSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](developerrafasilva@gmail.com)
 
-Here are some ideas to get you started:
+![Rafa GitHub stats](https://github-readme-stats.vercel.app/api?username=DeveloperRafaSilva&show_icons=true&theme=dracula)<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeveloperRafaSilva&langs_count=8)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tecnologias que utilizo no meu dia
+
+<div style="display: inline_block"><br>
+  <img style="align: center" alt="Icone HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=222&color=8877FF">
+  <img style="align: center" alt="Icone CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=222&color=8877FF">
+  <img style="align: center" alt="Icone JS" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=222&color=8877FF">
+  <img style="align: center" alt="Icone VUE" src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=222&color=8877FF">
+</div>
